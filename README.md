@@ -69,8 +69,6 @@ export default function App() {
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-```vbnet
-You can copy and paste this content into a README.md file in the root directory of your project. Feel free to customize the content and update any placeholders with the appropriate information.
 
 
-```
+
