@@ -10,7 +10,7 @@ This is a React Native app that demonstrates a simple game
    git clone https://github.com/mahaamer/Mini-Game```
    
 
-##Navigate to the project directory:
+### Navigate to the project directory:
 
 ```shell cd your-repo```
 
