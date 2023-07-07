@@ -7,32 +7,42 @@ This is a React Native app that demonstrates a simple game
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/mahaamer/Mini-Game```
+   
+   git clone https://github.com/mahaamer/Mini-Game
+   ```
    
 
-### Navigate to the project directory:
 
-```shell cd your-repo```
+2. Navigate to the project directory:
 
-###Install the dependencies:
+```shell 
+cd your-repo
+```
+
+
+
+3. Install the dependencies:
 
 ```shell
-npm install```
+npm install
+```
 
-##Usage
+## Usage
 To run the app on an Android or iOS emulator or device, use the following commands:
 
-###For Android:
+### For Android:
 
 ```shell
 npx react-native run-android
+```
 
-###For iOS:
+### For iOS:
 
 ```shell
 npx react-native run-ios
+```
 
-###Code Example
+### Code Example
 ```javascript
 import { StyleSheet, ImageBackground } from "react-native";
 import { LinearGradient } from "expo-linear-gradient";
@@ -54,9 +64,10 @@ export default function App() {
 }
 
 // ... rest of the code ...
+```
 
 
-###License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ```vbnet
@@ -65,3 +76,4 @@ You can copy and paste this content into a README.md file in the root directory 
 Remember to replace `your-username` and `your-repo` in the installation step with your actual GitHub username and repository name.
 
 Let me know if there's anything else I can help you with!
+```
