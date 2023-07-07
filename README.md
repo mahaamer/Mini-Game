@@ -5,10 +5,9 @@ This is a React Native app that demonstrates a simple game
 ## Installation
 
 1. Clone the repository:
-
-   ```shell
    
-   git clone https://github.com/mahaamer/Mini-Game
+ ```shell
+    git clone https://github.com/mahaamer/Mini-Game
    ```
    
 
@@ -73,7 +72,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ```vbnet
 You can copy and paste this content into a README.md file in the root directory of your project. Feel free to customize the content and update any placeholders with the appropriate information.
 
-Remember to replace `your-username` and `your-repo` in the installation step with your actual GitHub username and repository name.
 
-Let me know if there's anything else I can help you with!
 ```
