@@ -7,18 +7,18 @@ This is a React Native app that demonstrates a simple game
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/mahaamer/Mini-Game
+   git clone https://github.com/mahaamer/Mini-Game```
    
 
 ###Navigate to the project directory:
 
 ```shell
-cd your-repo
+cd your-repo```
 
 ###Install the dependencies:
 
 ```shell
-npm install
+npm install```
 
 ##Usage
 To run the app on an Android or iOS emulator or device, use the following commands:
